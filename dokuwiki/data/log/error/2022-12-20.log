@@ -1,0 +1,16 @@
+2022-12-20 22:09:39	/Applications/MAMP/htdocs/dokuwiki/lib/tpl/cosmocode-dokuwiki-template-sprintdoc-9d42445/main.php(12)	Error: Class 'dokuwiki\template\sprintdoc\Template' not found
+  #0 /Applications/MAMP/htdocs/dokuwiki/inc/actions.php(27): include()
+  #1 /Applications/MAMP/htdocs/dokuwiki/doku.php(126): act_dispatch()
+  #2 {main}
+2022-12-20 22:10:10	/Applications/MAMP/htdocs/dokuwiki/lib/tpl/cosmocode-dokuwiki-template-sprintdoc-9d42445/main.php(12)	Error: Class 'dokuwiki\template\sprintdoc\Template' not found
+  #0 /Applications/MAMP/htdocs/dokuwiki/inc/actions.php(27): include()
+  #1 /Applications/MAMP/htdocs/dokuwiki/doku.php(126): act_dispatch()
+  #2 {main}
+2022-12-20 22:10:10	/Applications/MAMP/htdocs/dokuwiki/lib/tpl/cosmocode-dokuwiki-template-sprintdoc-9d42445/main.php(12)	Error: Class 'dokuwiki\template\sprintdoc\Template' not found
+  #0 /Applications/MAMP/htdocs/dokuwiki/inc/actions.php(27): include()
+  #1 /Applications/MAMP/htdocs/dokuwiki/doku.php(126): act_dispatch()
+  #2 {main}
+2022-12-20 22:10:11	/Applications/MAMP/htdocs/dokuwiki/lib/tpl/cosmocode-dokuwiki-template-sprintdoc-9d42445/main.php(12)	Error: Class 'dokuwiki\template\sprintdoc\Template' not found
+  #0 /Applications/MAMP/htdocs/dokuwiki/inc/actions.php(27): include()
+  #1 /Applications/MAMP/htdocs/dokuwiki/doku.php(126): act_dispatch()
+  #2 {main}
