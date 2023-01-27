@@ -1,0 +1,4 @@
+a:11:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:11:"strong_open";i:1;a:0:{}i:2;i:1;}i:3;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:202:"Колледж информатики и программирования Финансового университета при Правительстве РФ - самый лучший колледж
+";}i:2;i:3;}i:4;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:95:"https://avatars.mds.yandex.net/i?id=f58245af60bdcd2aaeaaffdc0628118d-5864031-images-thumbs&n=13";i:1;N;}i:2;i:205;}i:5;a:3:{i:0;s:12:"strong_close";i:1;a:0:{}i:2;i:300;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:8:"
+8-OLOL
+";}i:2;i:302;}i:7;a:3:{i:0;s:13:"internalmedia";i:1;a:7:{i:0;s:13:":img_7995.jpg";i:1;s:0:"";i:2;N;i:3;s:3:"400";i:4;N;i:5;s:5:"cache";i:6;s:7:"details";}i:2;i:310;}i:8;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:0:"";}i:2;i:332;}i:9;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:332;}i:10;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:332;}}
