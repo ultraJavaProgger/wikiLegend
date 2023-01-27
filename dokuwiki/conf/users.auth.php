@@ -10,7 +10,8 @@
 # Format:
 # login:passwordhash:Real Name:email:groups,comma,separated
 
-admin:$2y$10$edj181hH5J8t9RP4zouKrOf1WzjQ4F5MWU5YpnCtUdSm.dfzhRt4W:admin:egunovzahar2006@gmail.com:user
-ururu:$2y$10$j5cMfj0WvKNN5zxnzU3ijuLlBNx4QVXfYelLe76xOuv/Qj1AxNtOm:Daniil:227195@edu.fa.ru:user
 armanizxc:$2y$10$Y4u351BDDfrxavhjmIwyYOreeRt3/ZhWaf.5r7P3.TbxMxuMudX9W:Алишер Моргенштерн:al.pl6@mail.ru:user
 zakhar1:$2y$10$9ZEYYLBFJD9TyYQ3aamFBOqy/OHD3TW.64qUPuCo2obcq4IqOrP9.:Zakhar:egunovzahar2006@gmail.com:admin,user
+admin:$2y$10$edj181hH5J8t9RP4zouKrOf1WzjQ4F5MWU5YpnCtUdSm.dfzhRt4W:admin:penis@penis.ru:user
+ururu:$2y$10$dMuwqkj7U8hQhVLMGgTBWuh4d/RDzFwJoYvuHa94mKPp8XNEH5Tde:Даниил:227195@edu.fa.ru:user
+proakgames:$2y$10$IxbsLnOvnKmEouvrHy37a.mDcUmPCa.yprepVHNVjp9mRNCJeVccu:ProakGames:proak561908@gmail.com:user
