@@ -1,19 +1,27 @@
-Channel: https://www.youtube.com/@Proak-Games
+{{ :proakgames:2023-01-26_21-05-16.png?nolink |}}
+
+🐬Channel🐬: https://www.youtube.com/@Proak-Games
 
 ----
-Fight Play Time
+👾Fight Play Time👾
+
 Version: 1.8
+
 [[https://drive.google.com/file/d/1M8xnRu3HLa5jkRANvUJe3l3eD_SQsGOr/view?usp=share_link|Download]]
+
 ----
 Update Log
   - Fix bugs
   - Add location
   - Changed Control
   - Updated old locations
-  - 
 ----
 Links:
 
+[[https://www.donationalerts.com/r/proak|Donation]]
+
 [[https://drive.google.com/file/d/1M8xnRu3HLa5jkRANvUJe3l3eD_SQsGOr/view?usp=share_link|Download]]
+
+[[https://www.youtube.com/watch?v=3_W4ugeoGl4&t=99s|Video]]
 
 [[https://www.youtube.com/@Proak-Games|Channel]]

@@ -8,3 +8,6 @@
 # Date: Tue, 20 Dec 2022 22:04:39 +0000
 *	@ALL	1
 *	@user	8
+proakgames:*	@user	1
+proakgames:cosmos	@user	2
+proakgames:с	@user	2

@@ -1,2 +1,2 @@
-{{NEWPAGE}}
+{{NEWPAGE>}}
 [[start|Главная]]
